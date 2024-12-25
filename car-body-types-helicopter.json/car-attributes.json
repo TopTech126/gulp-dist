@@ -1,0 +1,397 @@
+[
+  {
+    "carBodyTypes": [
+      {
+        "alias": "Single-Engine Piston (SEP)",
+        "name": "Single-Engine Piston (SEP)",
+        "image": "./images/body-types/4x4.png",
+        "offers": 12,
+        "group": "fixed-wing"
+      },
+      {
+        "alias": "Multi-Engine Piston (MEP)",
+        "name": "Multi-Engine Piston (MEP)",
+        "image": "./images/body-types/suv.png",
+        "offers": 16,
+        "group": "fixed-wing"
+      },
+      {
+        "alias": "Turboprop",
+        "name": "Turboprop",
+        "image": "./images/body-types/sports.png",
+        "offers": 5,
+        "group": "fixed-wing"
+      },
+      {
+        "alias": "Utility/Bush Planes",
+        "name": "Utility/Bush Planes",
+        "image": "./images/body-types/sedan.png",
+        "offers": 18,
+        "group": "fixed-wing"
+      },
+      {
+        "alias": "Amphibious/Seaplanes",
+        "name": "Amphibious/Seaplanes",
+        "image": "./images/body-types/convertible.png",
+        "offers": 8,
+        "group": "fixed-wing"
+      },
+      {
+        "alias": "High-Performance Aircraft",
+        "name": "High-Performance Aircraft",
+        "image": "./images/body-types/coupe.png",
+        "offers": 25,
+        "group": "fixed-wing"
+      },
+      {
+        "alias": "Business Jets",
+        "name": "Business Jets",
+        "image": "./images/body-types/sedan.png",
+        "offers": 13,
+        "group": "fixed-wing"
+      },
+      {
+        "alias": "Turbine",
+        "name": "Turbine",
+        "image": "./images/body-types/saloon.png",
+        "offers": 33,
+        "group": "rotorcraft"
+      },
+      {
+        "alias": "Light Utility",
+        "name": "Light Utility",
+        "image": "./images/body-types/roadster.png",
+        "offers": 4,
+        "group": "rotorcraft"
+      },
+      {
+        "alias": "Heavy-Lift",
+        "name": "Heavy-Lift",
+        "image": "./images/body-types/off-road.png",
+        "offers": 17,
+        "group": "rotorcraft"
+      },
+      {
+        "alias": "Amphibious",
+        "name": "Amphibious",
+        "image": "./images/body-types/pickup.png",
+        "offers": 28,
+        "group": "rotorcraft"
+      }
+    ],
+    "transmission": [
+      {
+        "alias": "piston",
+        "name": "Piston"
+      },
+      {
+        "alias": "piston",
+        "name": "Piston"
+      },
+      {
+        "alias": "turbine",
+        "name": "Turbine"
+      }
+    ],
+    "fuel": [
+      {
+        "alias": "petrol",
+        "name": "Petrol"
+      },
+      {
+        "alias": "diesel",
+        "name": "Diesel"
+      },
+      {
+        "alias": "hybrid-electric",
+        "name": "Hybrid Electric"
+      },
+      {
+        "alias": "hybrid-petrol-el",
+        "name": "Hybrid Petrol/EL"
+      },
+      {
+        "alias": "petrol-mhev",
+        "name": "Petrol/MHEV"
+      },
+      {
+        "alias": "diesel-mhev",
+        "name": "Diesel/MHEV"
+      }
+    ],
+    "engine": [
+      {
+        "alias": "1",
+        "name": "0 - 1L"
+      },
+      {
+        "alias": "2",
+        "name": "1L - 2L"
+      },
+      {
+        "alias": "3",
+        "name": "2L - 3L"
+      },
+      {
+        "alias": "4",
+        "name": "3L - 4L"
+      },
+      {
+        "alias": "5",
+        "name": "4L - 5L"
+      },
+      {
+        "alias": "6",
+        "name": "5L+"
+      }
+    ],
+    "driveSetup": [
+      {
+        "alias": "left-hand",
+        "name": "Left Hand"
+      },
+      {
+        "alias": "right-hand",
+        "name": "Right Hand"
+      }
+    ],
+    "drivetrain": [
+      {
+        "alias": "fwd",
+        "name": "FWD"
+      },
+      {
+        "alias": "rwd",
+        "name": "RWD"
+      },
+      {
+        "alias": "awd",
+        "name": "AWD"
+      },
+      {
+        "alias": "4wd",
+        "name": "4WD"
+      }
+    ],
+    "seats": [
+      {
+        "alias": "1",
+        "name": "1 Seat"
+      },
+      {
+        "alias": "2",
+        "name": "2 Seats"
+      },
+      {
+        "alias": "3",
+        "name": "3 Seats"
+      },
+      {
+        "alias": "4",
+        "name": "4 Seats"
+      },
+      {
+        "alias": "5",
+        "name": "5 Seats"
+      },
+      {
+        "alias": "6",
+        "name": "6 Seats"
+      },
+      {
+        "alias": "7",
+        "name": "7 Seats"
+      }
+    ],
+    "doors": [
+      {
+        "alias": "2",
+        "name": "2 Doors"
+      },
+      {
+        "alias": "3",
+        "name": "3 Doors"
+      },
+      {
+        "alias": "4",
+        "name": "4 Doors"
+      },
+      {
+        "alias": "5",
+        "name": "5 Doors"
+      },
+      {
+        "alias": "6",
+        "name": "6 Doors"
+      }
+    ],
+    "colors": [
+      {
+        "alias": "beige",
+        "name": "Beige"
+      },
+      {
+        "alias": "black",
+        "name": "Black"
+      },
+      {
+        "alias": "blue",
+        "name": "Blue"
+      },
+      {
+        "alias": "bronze",
+        "name": "Bronze"
+      },
+      {
+        "alias": "brown",
+        "name": "Brown"
+      },
+      {
+        "alias": "cream",
+        "name": "Cream"
+      },
+      {
+        "alias": "gold",
+        "name": "Gold"
+      },
+      {
+        "alias": "green",
+        "name": "Green"
+      },
+      {
+        "alias": "grey",
+        "name": "Grey"
+      },
+      {
+        "alias": "maroon",
+        "name": "Maroon"
+      },
+      {
+        "alias": "orange",
+        "name": "Orange"
+      },
+      {
+        "alias": "pink",
+        "name": "Pink"
+      },
+      {
+        "alias": "purple",
+        "name": "Purple"
+      },
+      {
+        "alias": "red",
+        "name": "Red"
+      },
+      {
+        "alias": "silver",
+        "name": "Silver"
+      },
+      {
+        "alias": "turquoise",
+        "name": "Turquoise"
+      },
+      {
+        "alias": "white",
+        "name": "White"
+      },
+      {
+        "alias": "yellow",
+        "name": "Yellow"
+      }
+    ],
+    "features": [
+      {
+        "alias": "air-conditioning",
+        "name": "Air Conditioning"
+      },
+      {
+        "alias": "alloy-wheels",
+        "name": "Alloy Wheels"
+      },
+      {
+        "alias": "bluetooth",
+        "name": "Bluetooth"
+      },
+      {
+        "alias": "remote-central-locking",
+        "name": "Remote Central Locking"
+      },
+      {
+        "alias": "cruise-control",
+        "name": "Cruise Control"
+      },
+      {
+        "alias": "isofix-child-seat-fitting",
+        "name": "Isofix Child Seat Fitting"
+      },
+      {
+        "alias": "metallic-paint",
+        "name": "Metallic Paint"
+      },
+      {
+        "alias": "pearlescent-paint",
+        "name": "Pearlescent Paint"
+      },
+      {
+        "alias": "parking-sensors",
+        "name": "Parking Sensors"
+      },
+      {
+        "alias": "roof-rails",
+        "name": "Roof Rails"
+      },
+      {
+        "alias": "sat-nav",
+        "name": "Sat Nav"
+      },
+      {
+        "alias": "electric-adjustable-seats",
+        "name": "Electric Adjustable Seats"
+      },
+      {
+        "alias": "heated-seats",
+        "name": "Heated Seats"
+      },
+      {
+        "alias": "sun-roof-electric",
+        "name": "Sun Roof Electric"
+      },
+      {
+        "alias": "sun-roof-turbine",
+        "name": "Sun Roof Turbine"
+      },
+      {
+        "alias": "upholstery-leather",
+        "name": "Upholstery Leather"
+      },
+      {
+        "alias": "upholstery-leather-alcantara",
+        "name": "Upholstery Leather Alcantara"
+      },
+      {
+        "alias": "upholstery-leather-fabric",
+        "name": "Upholstery Leather Fabric"
+      }
+    ],
+    "powerUnits": [
+      {
+        "alias": "kw",
+        "name": "KW"
+      },
+      {
+        "alias": "hp",
+        "name": "HP"
+      }
+    ],
+    "condition": [
+      {
+        "alias": "new",
+        "name": "New"
+      },
+      {
+        "alias": "used",
+        "name": "Used"
+      }
+    ]
+  }
+]
